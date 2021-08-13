@@ -3,13 +3,15 @@
 
 I`m Max from Belarus 🤍❤️🤍. For now I'm studying at BSUIR for mobile software engineer. I'm especially attracted to iOS development.
 
-Skills: Swift / Objective-C / Git
+Skills: Xcode / Swift / Objective-C / Git
 
 - 🔭 I’m currently working on upgrading my skills in iOS development 
 - 🌱 I’m currently learning everything 🤓
 - 🥅 2021 Goals: become Juniour iOS Developer and learn as much as I can
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxsashcheka)](https://github.com/anuraghazra/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/maxsashcheka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sashheko/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/11852570)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCRjhuRlkvORWAr25hqbrj0A)  
+
+
 
 
 <!--
