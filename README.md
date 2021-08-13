@@ -1,6 +1,10 @@
-### Hi there 👋, My name is Max
+### Hi there 👋, Max Sashcheka
+#### I`m a student and future iOS developer
+![I`m a student and future iOS developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-## I`m a student and future iOS developer
+I`m Max from Belarus 🤍❤️🤍. For now I'm studying at BSUIR for mobile software engineer. I'm especially attracted to iOS development.
+
+Skills: Swift / Objective-C / Git
 - 🔭 I’m currently working on upgrading my skills in iOS development 
 - 🌱 I’m currently learning everything 🤓
 - 🥅 2021 Goals: become Juniour iOS Developer and learn as much as I can
