@@ -1,6 +1,5 @@
 ### Hi there 👋, Max Sashcheka
 #### I`m a student and future iOS developer
-![I`m a student and future iOS developer]
 
 I`m Max from Belarus 🤍❤️🤍. For now I'm studying at BSUIR for mobile software engineer. I'm especially attracted to iOS development.
 
