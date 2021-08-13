@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on upgrading my skills in iOS development 
 - 🌱 I’m currently learning everything 🤓
 - 🥅 2021 Goals: become Juniour iOS Developer and learn as much as I can
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxsashcheka)](https://github.com/anuraghazra/github-readme-stats)
 
 
