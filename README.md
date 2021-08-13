@@ -9,7 +9,7 @@ Skills: Xcode / Swift / Objective-C / Git
 - 🌱 I’m currently learning everything 🤓
 - 🥅 2021 Goals: become Juniour iOS Developer and learn as much as I can
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='80'>](https://github.com/maxsashcheka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='80'>](https://www.instagram.com/sashheko/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='80'>](https://stackoverflow.com/users/11852570)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='80'>](https://www.youtube.com/channel/UCRjhuRlkvORWAr25hqbrj0A)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50'>](https://github.com/maxsashcheka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='50'>](https://www.instagram.com/sashheko/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='50'>](https://stackoverflow.com/users/11852570)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='50'>](https://www.youtube.com/channel/UCRjhuRlkvORWAr25hqbrj0A)  
 
 
 
