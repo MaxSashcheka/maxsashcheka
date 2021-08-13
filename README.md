@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, My name is Max
+
+## I`m a student and future iOS developer
+- 🔭 I’m currently working on upgrading my skills in iOS development 
+- 🌱 I’m currently learning everything 🤓
+- 🥅 2021 Goals: become Juniour iOS Developer and learn as much as I can
+
 
 <!--
 **MaxSashcheka/maxsashcheka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
