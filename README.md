@@ -1,9 +1,7 @@
 ### Hi there 👋, Max Sashcheka
-#### I`m a student and future iOS developer
+#### I`m a student and junior iOS developer at Yellow
 
 I`m Max from Belarus . For now I'm studying at BSUIR/FCAD/PMS for mobile software engineer. I'm especially attracted to iOS development.
-
-Junior iOS dev at Yellow
 
 Skills: Xcode / Swift / SQL / Git / Objective-C
 
