@@ -1,29 +1,49 @@
-### Hi there 👋, Max Sashcheka
-#### I`m a student and iOS developer at Yellow
+## 👋 Hi there! I'm Maksim
 
-I`m Max from Belarus . For now I'm studying at BSUIR/FCAD/PMS for mobile software engineer. I'm especially attracted to iOS development.
+### Senior iOS Developer
 
-Skills: Xcode / Swift / SQL / Git / Objective-C
+With **5 years of commercial experience** in iOS development, I've worked in teams ranging from **2 to 80 members**, both **remotely and on-site**. I also have **1 year of team-leading experience**, showcasing strong mentorship skills by training junior engineers, resulting in a:
 
-- 🔭 I’m currently working on upgrading my skills in iOS development 
-- 🌱 I’m currently learning everything 🤓
+- 📈 **30% improvement** in code quality
+- 🐛 **20% reduction** in bug-related delays
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50'>](https://github.com/maxsashcheka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='50'>](https://www.instagram.com/sashheko/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='50'>](https://stackoverflow.com/users/11852570)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='50'>](https://www.youtube.com/channel/UCRjhuRlkvORWAr25hqbrj0A)  
+In addition to my core iOS knowledge, I've implemented multiple features involving **complex map logic** with custom **clustering algorithms**. 
 
+**My hobby** is building a personal brand by:
+- 🎓 **Teaching iOS courses**
+- 📝 **Publishing articles** on my blog
 
+---
 
+### 🛠️ **SKILLS**
 
-<!--
-**MaxSashcheka/maxsashcheka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### **iOS:**
+- **Languages & Frameworks:** Swift, Objective-C, SwiftUI, UIKit
+- **Concurrency & Reactive:** Swift Concurrency, Combine, RxSwift/RxCocoa
+- **Data & Networking:** CoreData, Alamofire, Moya
+- **UI/UX:** SnapKit, Lottie, AVFoundation, CoreAnimation, CoreGraphics
+- **Architecture:** MVVM, Clean Swift, Redux, TCA
+- **Testing:** XCTest, Quick, Nimble
+- **Maps:** MapBox, Google Maps SDK
+- **Payments:** Braintree
 
-Here are some ideas to get you started:
+#### **Other:**
+- **CI/CD:** Fastlane, Jenkins, TeamCity
+- **Package Management:** CocoaPods, SPM
+- **Tools:** Ruby, SwiftLint, SwiftGen, Sourcery, Git, Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 **Get in Touch**
+
+Feel free to [PM me]([https://github.com/yourusername](https://www.linkedin.com/in/maxsashcheka/))!
+
+---
+
+### 📚 **Blog & Courses**
+
+- [My Blog](https://medium.com/@sashchekam) – Articles on iOS development
+
+---
+
+✨ **Let's build something amazing together!**
