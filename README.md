@@ -19,7 +19,7 @@ In addition to my core iOS knowledge, I've implemented multiple features involvi
 - **Concurrency & Reactive:** Swift Concurrency, Combine, RxSwift/RxCocoa
 - **Data & Networking:** CoreData, Alamofire, Moya
 - **UI/UX:** SnapKit, Lottie, AVFoundation, CoreAnimation, CoreGraphics
-- **Architecture:** MVVM, Clean Swift, Redux, TCA
+- **Architecture:** MV(X), Clean Swift, Redux, TCA
 - **Testing:** XCTest, Quick, Nimble
 - **Maps:** MapBox, Google Maps SDK
 - **Payments:** Braintree
