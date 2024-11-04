@@ -2,10 +2,7 @@
 
 ### Senior iOS Developer
 
-With **5 years of commercial experience** in iOS development, I've worked in teams ranging from **2 to 80 members**, both **remotely and on-site**. I also have **1 year of team-leading experience**, showcasing strong mentorship skills by training junior engineers, resulting in a:
-
-- 📈 **30% improvement** in code quality
-- 🐛 **20% reduction** in bug-related delays
+With **5 years of commercial experience** in iOS development, I've worked in teams ranging from **2 to 80 members**, both **remotely and on-site**. I also have **1 year of team-leading experience**, showcasing strong mentorship skills by training junior engineers.
 
 In addition to my core iOS knowledge, I've implemented multiple features involving **complex map logic** with custom **clustering algorithms**. 
 
@@ -36,7 +33,7 @@ In addition to my core iOS knowledge, I've implemented multiple features involvi
 
 ### 📫 **Get in Touch**
 
-Feel free to [PM me]([https://github.com/yourusername](https://www.linkedin.com/in/maxsashcheka/))!
+Feel free to [PM me](https://www.linkedin.com/in/maxsashcheka/)!
 
 ---
 
